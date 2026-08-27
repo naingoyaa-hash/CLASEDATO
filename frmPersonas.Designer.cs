@@ -91,7 +91,6 @@
             this.lblNombres.Size = new System.Drawing.Size(61, 13);
             this.lblNombres.TabIndex = 4;
             this.lblNombres.Text = "NOMBRES";
-            this.lblNombres.Click += new System.EventHandler(this.label2_Click);
             // 
             // label3
             // 

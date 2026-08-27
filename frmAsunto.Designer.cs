@@ -55,7 +55,6 @@
             this.label1.Size = new System.Drawing.Size(83, 13);
             this.label1.TabIndex = 0;
             this.label1.Text = "NEXPEDIENTE";
-            this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // label2
             // 
@@ -130,7 +129,6 @@
             this.txtBuscarAsunto.Name = "txtBuscarAsunto";
             this.txtBuscarAsunto.Size = new System.Drawing.Size(234, 20);
             this.txtBuscarAsunto.TabIndex = 20;
-            this.txtBuscarAsunto.TextChanged += new System.EventHandler(this.txtBuscarPersona_TextChanged);
             // 
             // label5
             // 

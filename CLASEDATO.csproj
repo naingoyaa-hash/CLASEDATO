@@ -46,6 +46,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Class\CADAbogado.cs" />
+    <Compile Include="Class\CADAsunto.cs" />
+    <Compile Include="Class\CADPersona.cs" />
+    <Compile Include="Class\ConexionBD.cs" />
+    <Compile Include="Class\CRUD.cs" />
     <Compile Include="frmMenu.cs">
       <SubType>Form</SubType>
     </Compile>
